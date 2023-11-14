@@ -22,9 +22,10 @@ Make sure you have the following installed on your machine:
 
 You can install them using the following command:
 
--pip install pandas 
--pip inatall numpy 
--pip install matplotlib 
--pip install seaborn
-
+```bash
+pip install pandas 
+pip inatall numpy 
+pip install matplotlib 
+pip install seaborn
+```
 
